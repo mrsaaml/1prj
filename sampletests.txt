@@ -1,0 +1,72 @@
+C:\Users\user\.jdks\openjdk-23.0.2\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.3\lib\idea_rt.jar=51604:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.3\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\user\IdeaProjects\encryption_decryp\out\production\encryption_decryp Main
+Choose encryption method:
+1. Caesar Cipher
+2. Vigenère Cipher
+
+1
+Enter the text:
+Hello world!
+Choose an action:
+1. Encryption
+2. Decryption
+1
+Enter the shift key:
+3
+Encrypted Text: Khoor zruog!
+
+Process finished with exit code 0
+
+
+C:\Users\user\.jdks\openjdk-23.0.2\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.3\lib\idea_rt.jar=51615:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.3\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\user\IdeaProjects\encryption_decryp\out\production\encryption_decryp Main
+Choose encryption method:
+1. Caesar Cipher
+2. Vigenère Cipher
+2
+Enter the text:
+I love Java!
+Choose an action:
+1. Encryption
+2. Decryption
+1
+Enter the key (word):
+Python
+Encrypted Text: X jhcs Wptt!
+
+Process finished with exit code 0
+
+
+C:\Users\user\.jdks\openjdk-23.0.2\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.3\lib\idea_rt.jar=51619:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.3\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\user\IdeaProjects\encryption_decryp\out\production\encryption_decryp Main
+Choose encryption method:
+1. Caesar Cipher
+2. Vigenère Cipher
+2
+Enter the text:
+X jhcs Wptt!
+Choose an action:
+1. Encryption
+2. Decryption
+2
+Enter the key (word):
+Python
+Decrypted Text: I love Java!
+
+Process finished with exit code 0
+
+
+
+C:\Users\user\.jdks\openjdk-23.0.2\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.3\lib\idea_rt.jar=51626:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.3\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\user\IdeaProjects\encryption_decryp\out\production\encryption_decryp Main
+Choose encryption method:
+1. Caesar Cipher
+2. Vigenère Cipher
+1
+Enter the text:
+Khoor zruog!
+Choose an action:
+1. Encryption
+2. Decryption
+2
+Enter the shift key:
+3
+Decrypted Text: Hello world!
+
+Process finished with exit code 0
